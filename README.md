@@ -146,3 +146,10 @@ Utilizados para manipular os dados no banco de dados.
 
 ### Conclusão
 Compreender os fundamentos de banco de dados, tanto relacionais quanto NoSQL, é essencial para gerenciar e utilizar eficientemente grandes volumes de dados. A prática com comandos SQL e a modelagem de dados são habilidades cruciais para qualquer profissional de TI.
+
+
+### Criação de Aplicativo com Expo
+- **Criando aplicativo**:
+  ```javascript
+  npm create-expo-app MOBI-Rio
+  ```
