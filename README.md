@@ -151,5 +151,5 @@ Compreender os fundamentos de banco de dados, tanto relacionais quanto NoSQL, é
 ### Criação de Aplicativo com Expo
 - **Criando aplicativo**:
   ```javascript
-  npm create-expo-app MOBI-Rio
+  npx create-expo-app MOBI-Rio
   ```
